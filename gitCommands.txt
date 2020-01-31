@@ -16,7 +16,6 @@
   254  git push origin master
   255  git clone monali45@host:https://github.com/monali45/question-paper-generator.git
   256  mkdir CloningFile
-  257  git clone monali45@host:https://github.com/monali45/question-paper-generator.git CloningFile
   258  git clone https://github.com/monali45/question-paper-generator.git CloningFile
   259  git branch
   260  git checkout -b devTest
