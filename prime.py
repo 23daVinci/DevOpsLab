@@ -1,4 +1,4 @@
-num = 11
+n = int(input())
   
 # If given number is greater than 1 
 if num > 1: 
